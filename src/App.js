@@ -8,6 +8,7 @@ function App() {
   // const link ="https://www.google.com";
 
   return (
+    <div className='whole'>
     <div className="App">
       <Navbar/>
       <div className="content">
@@ -21,6 +22,7 @@ function App() {
         <a href={link}>Google</a> */}
 
       </div>
+    </div>
     </div>
   );
 }

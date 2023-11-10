@@ -1,0 +1,35 @@
+{
+    "blogs":[
+        {
+            "title": "Introduction to JSON",
+            "body": "JSON (JavaScript Object Notation) is a lightweight data interchange format...",
+            "author": "John Doe",
+            "id": 1
+        },
+        {
+            "title": "Working with Arrays",
+            "body": "Arrays in JSON can hold multiple values, and each value must be separated by a comma...",
+            "author": "Jane Smith",
+            "id": 2
+        },
+        {
+            "title": "Understanding Objects",
+            "body": "Objects in JSON are key-value pairs, where keys are strings and values can be strings, numbers, objects, arrays, boolean, or null...",
+            "author": "Alex Johnson",
+            "id": 3
+        },
+        {
+            "title": "JSON Schema",
+            "body": "JSON Schema is a powerful tool for validating the structure of JSON data...",
+            "author": "Emily Brown",
+            "id": 4
+        },
+        {
+            "title": "Best Practices",
+            "body": "Follow best practices when working with JSON to ensure readability, maintainability, and interoperability...",
+            "author": "Chris Williams",
+            "id": 5
+        }
+      ]
+      
+}
